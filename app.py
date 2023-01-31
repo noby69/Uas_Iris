@@ -17,7 +17,7 @@ def prediction(sepal_length, sepal_width, petal_length, petal_width):
 
 def main():
     st.title("Aplikasi Data Mining Iris Algoritma Naive Bayes")
-    st.markdown('Dwi Putro Sulistyo 2019230004)
+    st.markdown('Dwi Putro Sulistyo 2019230004')
     st.write('\n')
     st.markdown('Silakan isi form berikut terlebih dahulu :')
     
